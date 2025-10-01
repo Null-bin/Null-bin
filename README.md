@@ -50,16 +50,22 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ### 📫 Como me encontrar
 
 <p align="left">
-<a href="https://linkedin.com/in/guilhermeinfosec" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermeinfosec" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/guilhermeinfosec" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermeinfosec" height="30" width="40" />
+  </a>
+</p>
 
-<a href="https://www.credly.com/users/guilhermeinfosec/badges#credly" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
-</a>
+<p align="left">
+  <a href="https://www.credly.com/users/guilhermeinfosec/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
+  </a>
+</p>
 
-<a href="https://www.credential.net/profile/guilhermeinfosec/wallet" target="_blank">
-  <img src="https://img.shields.io/badge/Accredible-12B58A?style=for-the-badge&logo=accredible&logoColor=white" alt="Accredible Wallet"/>
-</a>
-
+<p align="left">
+  <a href="https://www.credential.net/profile/guilhermeinfosec/wallet" target="_blank">
+    <img src="https://img.shields.io/badge/Accredible-5B43F0?style=for-the-badge&logo=accredible&logoColor=white" alt="Accredible Wallet"/>
+  </a>
+</p>
 
 <!--
 **Null-bin/Null-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
