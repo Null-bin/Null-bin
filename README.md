@@ -1,4 +1,5 @@
-# Olá, eu sou o Guilherme! 👋
+# Olá, eu sou o Guilherme Matos! 👋
+
 
 <p align="center">
   <img src="https://github.com/null-bin/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
@@ -50,6 +51,11 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="left">
 <a href="https://linkedin.com/in/guilhermeinfosec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermeinfosec" height="30" width="40" /></a>
+</p>
+&nbsp;
+<a href="https://www.credly.com/users/guilhermeinfosec/badges#credly" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Credly-FF6B00%3Fstyle%3Dfor-the-badge%26logo%3Dcredly%26logoColor%3Dwhite" alt="Credly Badges"/></a>
+&nbsp;
+<a href="https://credentials.databricks.com/profile/guilhermeinfosec/wallet" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Databricks Wallet"/></a>
 </p>
 
 <!--
