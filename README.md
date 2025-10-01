@@ -69,7 +69,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="left">
   <a href="https://outlook.office.com/bookwithme/user/46ee43a2f17d4d1e97891abc5b8ed8ed@infra-work.com/meetingtype/LKxfjrfLZU-Z1cI8mBlyjQ2?anonymous&ismsaljsauthenabled&ep=mlink" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/microsoft-bookings-2019.png" alt="Agendar Reunião - Microsoft Bookings" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/📅%20Agendar%20Reunião-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Agendar Reunião no Outlook"/>
   </a>
 </p>
 
