@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme! 👋
 
 <p align="center">
-  <img src="https://github.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados e automação.
@@ -38,9 +38,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO-AQUI">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=8&theme=dracula"/>
+  <a href="https://github.com/null-bin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=null-bin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-bin&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
@@ -49,7 +49,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ### 📫 Como me encontrar
 
 <p align="left">
-<a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin-aqui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guilhermeinfosec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermeinfosec" height="30" width="40" /></a>
 </p>
 
 <!--
