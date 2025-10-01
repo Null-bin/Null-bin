@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme! 👋
 
 <p align="center">
-  <img src="https://github.com/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/null-bin/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados e automação.
