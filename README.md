@@ -31,7 +31,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
-  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-FF0000?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/> </a>
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-B22222?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/> </a>
 </p>
 
 ---
