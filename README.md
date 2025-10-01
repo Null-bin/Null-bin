@@ -67,6 +67,12 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   </a>
 </p>
 
+<p align="left">
+  <a href="https://outlook.office.com/bookwithme/user/46ee43a2f17d4d1e97891abc5b8ed8ed@infra-work.com/meetingtype/LKxfjrfLZU-Z1cI8mBlyjQ2?anonymous&ismsaljsauthenabled&ep=mlink" target="_blank">
+    <img src="https://img.shields.io/badge/Agendar%20Reunião-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Agendar Reunião no Outlook"/>
+  </a>
+</p>
+
 <!--
 **Null-bin/Null-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
