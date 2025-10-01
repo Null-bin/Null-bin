@@ -50,11 +50,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ### 📫 Como me encontrar
 
 <p align="left">
-<a href="https://linkedin.com/in/guilhermeinfosec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermeinfosec" height="30" width="40" /></a>
-</p>
-
+<a href="https://linkedin.com/in/guilhermeinfosec" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermeinfosec" height="30" width="40" /></a>
+&nbsp;
 <a href="https://www.credly.com/users/guilhermeinfosec/badges#credly" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Credly-FF6B00%3Fstyle%3Dfor-the-badge%26logo%3Dcredly%26logoColor%3Dwhite" alt="Credly Badges"/></a>
-
+&nbsp;
 <a href="https://www.credential.net/profile/guilhermeinfosec/wallet" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Accredible-12B58A%3Fstyle%3Dfor-the-badge%26logo%3Daccredible%26logoColor%3Dwhite" alt="Accredible Wallet"/></a>
 </p>
 
