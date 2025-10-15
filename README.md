@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Matos! 👋
+# Olá, eu sou o Guilherme!
 
 
 <p align="center">
