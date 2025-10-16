@@ -15,6 +15,7 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
 <p align="center">
   <img src="pacman.gif" alt="Pac-Man animation" width="800px"/>
 </p>
+
 ---
 
 ### 🌱 Meus Focos Atuais
