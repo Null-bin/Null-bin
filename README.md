@@ -1,15 +1,25 @@
 # Olá, eu sou o Guilherme!
 
-Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados e automação.
+Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados, RAG e Fine tuning. Aplicando recursos de ML e IA na cyberdefesa.
 
 ---
 
 ### 🌱 Meus Focos Atuais
 
--   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow e Docker** para coletar e processar dados do Portal Nacional de Contratações Públicas (PNCP) do Brasil.
+-   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow em Docker** para coletar e processar dados Públicos dos portais de Transparência:
+
+<img width="1309" height="696" alt="image" src="https://github.com/user-attachments/assets/f1f3b7e6-d1f3-4371-aab1-434438d5f495" />
+
+<img width="406" height="723" alt="image" src="https://github.com/user-attachments/assets/bb65a45a-b963-4be2-92e6-42ebdf3f4636" />
+
+<img width="412" height="742" alt="image" src="https://github.com/user-attachments/assets/18302b21-913d-4759-bb70-4bba1576f7b8" />
+
+<img width="397" height="717" alt="image" src="https://github.com/user-attachments/assets/c90a0234-655b-4fc2-9f0a-a0beb29e38a3" />
+
+
 -   **Estou aprendendo:**
-    -   Inglês (buscando a fluência!).
-    -   No meu roadmap de certificações tenho: ** AWS Solutions Architect Associate, Security+ e Nutanix SCA** para concluir até 2025.
+    -   Inglês (buscando a fluência).
+    -   No meu roadmap de certificações tenho: **AWS Solutions Architect Associate, Security+ e Cysa+.**
 -   **Estou aberto a:** Novas oportunidades e desafios na área de tecnologia, especialmente em posições que envolvam Cloud, DevOps e Cybersecurity.
 
 ---
