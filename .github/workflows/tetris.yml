@@ -1,39 +1,43 @@
-name: Gerar Animação de Contribuições (Tetris)
+name: Gerar Tetris GIF
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 */12 * * *" # roda a cada 12h
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # roda diariamente (ajuste se quiser)
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
-
-      - name: Configurar Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
         with:
-          python-version: "3.11"
+          fetch-depth: 0
 
-      - name: Instalar dependências
-        run: pip install pillow
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
-      - name: Gerar Tetris GIF com Python (sem mudar cores)
-        run: python scripts/generate_tetris.py --out tetris.gif --frames 800
+      - name: Install deps
+        run: python -m pip install --upgrade pip && pip install pillow
 
-      - name: Configurar Git
+      - name: Run generator de Tetris
+        run: |
+          python scripts/generate_tetris.py --out tetris.gif --frames 200
+
+      - name: Commit generated GIF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commitar e enviar GIF
-        run: |
-          git add tetris.gif
-          git commit -m "Atualiza Tetris GIF (automatizado)" || echo "Nada para commitar"
-          git pull --rebase
-          git push
+          git add tetris.gif || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza tetris.gif (automatizado)"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "Nenhuma alteração para comitar."
+          fi
