@@ -4,6 +4,17 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
 
 ---
 
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://github.com/null-bin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=null-bin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-bin&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github.com/null-bin/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
@@ -11,7 +22,6 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
 <p align="center">
   <img src="tetris.gif" alt="Tetris animation" width="800px"/>
 </p>
-
 
 ---
 
@@ -38,17 +48,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   <a href="https://kubernetes.io" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-B22222?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/> </a>
-</p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/null-bin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=null-bin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-bin&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
 </p>
 
 ---
