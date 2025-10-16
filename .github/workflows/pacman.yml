@@ -29,9 +29,9 @@ jobs:
             --mode pacman \
             --output pacman.gif \
             --duration 60 \
-            --block-color "#FFFF00" \       # Pac-Man amarelo
-            --secondary-block-color "#000000" \ # Pontinhos pretos
-            --background "#ebedf0" \        # Fundo GitHub padrão
+            --block-color "#FFFF00" \       
+            --secondary-block-color "#000000" \
+            --background "#ebedf0" \       
             --width 52 \
             --height 7
 
