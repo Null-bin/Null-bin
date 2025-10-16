@@ -4,6 +4,20 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
 
 ---
 
+<p align="center">
+  <img src="https://github.com/null-bin/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<p align="center">
+  <img src="tetris.gif" alt="Tetris animation" width="800px"/>
+</p>
+
+<p align="center">
+  <img src="pacman.gif" alt="Pac-Man animation" width="800px"/>
+</p>
+
+---
+
 ### 🌱 Meus Focos Atuais
 
 -   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow e Docker** para coletar e processar dados do Portal Nacional de Contratações Públicas (PNCP) do Brasil.
@@ -38,20 +52,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=null-bin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-bin&layout=compact&langs_count=8&theme=dracula"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/null-bin/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
-<p align="center">
-  <img src="tetris.gif" alt="Tetris animation" width="800px"/>
-</p>
-
-<p align="center">
-  <img src="pacman.gif" alt="Pac-Man animation" width="800px"/>
 </p>
 
 ---
