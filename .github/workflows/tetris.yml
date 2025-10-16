@@ -15,25 +15,16 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Configurar Node.js
-        uses: actions/setup-node@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
         with:
-          node-version: 20
+          python-version: "3.11"
 
-      - name: Instalar gerador Tetris
-        run: npm install -g github-contribution-graph
+      - name: Instalar dependências
+        run: pip install pillow
 
-      - name: Gerar Tetris com cores personalizadas
-        run: |
-          github-contribution-graph \
-            --mode tetris \
-            --output tetris.gif \
-            --duration 60 \
-            --block-color "#007bff" \
-            --secondary-block-color "#ff9800" \
-            --background "#ebedf0" \
-            --width 52 \
-            --height 7
+      - name: Gerar Tetris GIF com Python (sem mudar cores)
+        run: python scripts/generate_tetris.py --out tetris.gif --frames 800
 
       - name: Configurar Git
         run: |
@@ -44,4 +35,5 @@ jobs:
         run: |
           git add tetris.gif
           git commit -m "Atualiza Tetris GIF (automatizado)" || echo "Nada para commitar"
+          git pull --rebase
           git push
