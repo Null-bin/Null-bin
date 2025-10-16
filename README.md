@@ -4,6 +4,16 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
 
 ---
 
+### 🌱 Meus Focos Atuais
+
+-   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow e Docker** para coletar e processar dados do Portal Nacional de Contratações Públicas (PNCP) do Brasil.
+-   **Estou aprendendo:**
+    -   Inglês (buscando a fluência!).
+    -   No meu roadmap de certificações tenho: ** AWS Solutions Architect Associate, Security+ e Nutanix SCA** para concluir até 2025.
+-   **Estou aberto a:** Novas oportunidades e desafios na área de tecnologia, especialmente em posições que envolvam Cloud, DevOps e Cybersecurity.
+
+---
+
 <p align="center">
   <img src="https://github.com/null-bin/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
@@ -15,16 +25,6 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
 <p align="center">
   <img src="pacman.gif" alt="Pac-Man animation" width="800px"/>
 </p>
-
----
-
-### 🌱 Meus Focos Atuais
-
--   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow e Docker** para coletar e processar dados do Portal Nacional de Contratações Públicas (PNCP) do Brasil.
--   **Estou aprendendo:**
-    -   Inglês (buscando a fluência!).
-    -   No meu roadmap de certificações tenho: ** AWS Solutions Architect Associate, Security+ e Nutanix SCA** para concluir até 2025.
--   **Estou aberto a:** Novas oportunidades e desafios na área de tecnologia, especialmente em posições que envolvam Cloud, DevOps e Cybersecurity.
 
 ---
 
