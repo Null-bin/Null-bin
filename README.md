@@ -1,5 +1,8 @@
 # Olá, eu sou o Guilherme!
 
+Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados e automação.
+
+---
 
 <p align="center">
   <img src="https://github.com/null-bin/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
@@ -12,10 +15,6 @@
 <p align="center">
   <img src="pacman.gif" alt="Pac-Man animation" width="800px"/>
 </p>
-
-
-Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados e automação.
-
 ---
 
 ### 🌱 Meus Focos Atuais
