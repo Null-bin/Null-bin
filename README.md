@@ -12,9 +12,6 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
   <img src="tetris.gif" alt="Tetris animation" width="800px"/>
 </p>
 
-<p align="center">
-  <img src="pacman.gif" alt="Pac-Man animation" width="800px"/>
-</p>
 
 ---
 
