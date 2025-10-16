@@ -14,7 +14,6 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
 
 <img width="412" height="742" alt="image" src="https://github.com/user-attachments/assets/18302b21-913d-4759-bb70-4bba1576f7b8" />
 
-<img width="397" height="717" alt="image" src="https://github.com/user-attachments/assets/c90a0234-655b-4fc2-9f0a-a0beb29e38a3" />
 
 
 -   **Estou aprendendo:**
