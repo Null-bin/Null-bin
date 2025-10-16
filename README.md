@@ -8,14 +8,6 @@ Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança d
 
 -   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow em Docker** para coletar e processar dados Públicos dos portais de Transparência:
 
-<img width="1309" height="696" alt="image" src="https://github.com/user-attachments/assets/f1f3b7e6-d1f3-4371-aab1-434438d5f495" />
-
-<img width="406" height="723" alt="image" src="https://github.com/user-attachments/assets/bb65a45a-b963-4be2-92e6-42ebdf3f4636" />
-
-<img width="412" height="742" alt="image" src="https://github.com/user-attachments/assets/18302b21-913d-4759-bb70-4bba1576f7b8" />
-
-
-
 -   **Estou aprendendo:**
     -   Inglês (buscando a fluência).
     -   No meu roadmap de certificações tenho: **AWS Solutions Architect Associate, Security+ e Cysa+.**
