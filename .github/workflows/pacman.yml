@@ -2,7 +2,7 @@ name: Gerar Animação de Contribuições (Pac-Man)
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # roda a cada 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,18 +20,15 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Instalar gerador
-        run: npm install -g github-contribution-graph
-
       - name: Gerar Pac-Man
         run: |
           npx github-contribution-graph \
             --mode pacman \
             --output pacman.gif \
             --duration 60 \
-            --block-color "#FFFF00" \       
+            --block-color "#FFFF00" \
             --secondary-block-color "#000000" \
-            --background "#ebedf0" \       
+            --background "#ebedf0" \
             --width 52 \
             --height 7
 
