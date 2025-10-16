@@ -9,6 +9,11 @@
   <img src="tetris.gif" alt="Tetris animation" width="800px"/>
 </p>
 
+<p align="center">
+  <img src="pacman.gif" alt="Pac-Man animation" width="800px"/>
+</p>
+
+
 Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados e automação.
 
 ---
