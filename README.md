@@ -3,7 +3,7 @@
 Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados, RAG e Fine tuning. Aplicando recursos de ML e IA na cyberdefesa.
 
 ---
-
+ 
 ### 🌱 Meus Focos Atuais
 
 -   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow em Docker** para coletar e processar dados Públicos dos portais de Transparência:
