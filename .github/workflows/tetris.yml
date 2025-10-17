@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'tetris.gif'   # ignora pushes que alterem apenas o GIF gerado
   schedule:
     - cron: '0 0 * * *'  # roda diariamente (ajuste se quiser)
 
@@ -36,7 +38,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add tetris.gif || true
           if ! git diff --cached --quiet; then
-            git commit -m "Atualiza tetris.gif (automatizado)"
+            # adiciona [skip ci] para evitar retrigger por pushes
+            git commit -m "[skip ci] Atualiza tetris.gif (automatizado)"
             git push origin HEAD:${{ github.ref_name }}
           else
             echo "Nenhuma alteração para comitar."
