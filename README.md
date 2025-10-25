@@ -1,13 +1,17 @@
 # Olá, eu sou o Guilherme!
 
-Sou um profissional de TI com experiência em Arquitetura de Nuvem, Segurança da Informação e DevOps. Minha paixão é criar soluções seguras, resilientes e eficientes, alinhando a tecnologia aos objetivos de negócio. Atualmente, estou focado em aprofundar meus conhecimentos em engenharia de dados, RAG e Fine tuning. Aplicando recursos de ML e IA na cyberdefesa.
+Sou Arquiteto de Nuvem e Analista de Segurança Sênior (Blue Team) com +7 anos de experiência em coordenação de equipes de TI, arquitetura multi-cloud (Azure, GCP, AWS) e implementação de estratégias DevSecOps.
+
+Minha paixão é criar soluções resilientes, especializando-me em Governança de Identidade (IGA/IAM), Detecção e Resposta a Incidentes (SIEM/SOAR) e Automação de Segurança (IaC).
+
+Atualmente, estou focado em aplicar meus conhecimentos de segurança em projetos de Engenharia de Dados (com Apache Airflow) e explorar o uso de ML/IA (RAG, Fine-tuning) para ciberdefesa.
 
 ---
  
 ### 🌱 Meus Focos Atuais
 
--   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow em Docker** para coletar e processar dados Públicos dos portais de Transparência:
-
+-   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow em Docker** para coletar e processar dados e, além de criar um pipeline robusto, garantir a governança e a segurança (data security) do fluxo de ponta a ponta.
+-   
 -   **Estou aprendendo:**
     -   Inglês (buscando a fluência).
     -   No meu roadmap de certificações tenho: **AWS Solutions Architect Associate, Security+ e Cysa+.**
@@ -52,6 +56,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 </p>
 
 ---
+
+### 🏆 Certificações em Destaque
+
+<p align="left">   <img src="https://img.shields.io/badge/SailPoint-Identity%20Security-blue?style=for-the-badge&logo=sailpoint" alt="SailPoint Identity Security"/>   <img src="https://img.shields.io/badge/Microsoft-GitHub%20Advanced%20Security-grey?style=for-the-badge&logo=github" alt="GitHub Advanced Security"/>   <img src="https://img.shields.io/badge/Aviatrix-Multicloud%20Network-darkblue?style=for-the-badge&logo=aviatrix" alt="Aviatrix Certified Engineer"/>   <img src="https://img.shields.io/badge/Calico-Certified%20Operator-red?style=for-the-badge&logo=tigera" alt="Calico Certified Operator"/>   <img src="https://img.shields.io/badge/Oracle-OCI%20Architect-red?style=for-the-badge&logo=oracle" alt="OCI Architect Certified"/>   <img src="https://img.shields.io/badge/Análise-Cyber%20Threat%20Intelligence-black?style=for-the-badge&logo=dataiku" alt="CTI Analyst"/> </p>
 
 ### 📫 Como me encontrar
 
