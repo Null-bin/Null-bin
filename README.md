@@ -8,14 +8,12 @@ Atualmente, estou focado em aplicar meus conhecimentos de segurança em projetos
 
 ---
  
-### 🌱 Meus Focos Atuais
+### 🔭 I’m currently working on ...
 
--   **Estou trabalhando em:** Um projeto de engenharia de dados com **Apache Airflow em Docker** para coletar e processar dados e, além de criar um pipeline robusto, garantir a governança e a segurança (data security) do fluxo de ponta a ponta.
--   
--   **Estou aprendendo:**
-    -   Inglês (buscando a fluência).
-    -   No meu roadmap de certificações tenho: **AWS Solutions Architect Associate, Security+ e Cysa+.**
--   **Estou aberto a:** Novas oportunidades e desafios na área de tecnologia, especialmente em posições que envolvam Cloud, DevOps e Cybersecurity.
+-  Um projeto de engenharia de dados com **Apache Airflow em Docker** para coletar e processar dados e, além de criar um pipeline, garantir a segurança do fluxo de ponta a ponta.
+-  No meu roadmap de certificações tenho: **AWS Solutions Architect Associate, Security+ e Cysa+.**
+  
+-  **Estou aberto a:** Novas oportunidades e desafios na área de tecnologia, especialmente em posições que envolvam Cloud, DevOps e Cybersecurity.
 
 ---
 
