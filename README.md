@@ -22,6 +22,7 @@ Secure Data Engineering Pipeline:** A data engineering project focused on data c
 <p align="center">
   <img src="tetris.gif" alt="Tetris animation" width="800px"/>
 </p>
+
 ---
 
 ### 💻 Technologies and Tools
