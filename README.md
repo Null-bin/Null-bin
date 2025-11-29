@@ -1,15 +1,15 @@
-I am a *Cloud Architect and Senior Security Analyst (Blue Team)** with over *9 years* of experience in coordinating IT teams, multi-cloud architecture (Azure, GCP, AWS), and implementing DevSecOps strategies.
+# 🛡️ Senior Cloud & Security Engineer (IAM | DevSecOps | AppSec)
 
-My passion is creating resilient solutions, specializing in *Identity Governance and Administration (IGA/IAM)*, *Incident Detection and Response (SIEM/SOAR)*, and *Security Automation (IaC)*.
-Currently, I am focused on applying my security expertise to Data Engineering projects and exploring the use of *ML/AI (RAG, Fine-tuning, and MCP)* for cyber defense.
+I am a **Senior Cloud & Security Engineer** and **Blue Team Analyst** with over **9 years** of experience in architecting, engineering, and automating resilient cybersecurity programs across multi-cloud environments (Azure, GCP, AWS, OCI). My approach is focused on aligning robust security controls with business agility and measurable results.
+
 ---
  
 ### 🔭 I’m currently working on ...
 
-Secure Data Engineering Pipeline:** A data engineering project focused on data collection and processing, including creating a pipeline and ensuring *end-to-end security* for the entire flow.
-- *Certification Roadmap:* Actively pursuing the *AWS Solutions Architect Associate, and CySA+* certifications.
-  
-- I am open to: New opportunities and challenges in technology, especially in positions involving Cloud, DevOps, and Cybersecurity.
+* **Secure Data Engineering Pipeline:** Engineering end-to-end security and **Data Governance** for critical data pipelines, focusing on encryption, DLP (**Purview**), and robust **IAM** across data lakes.
+* **AWS & CySA+ Roadmap:** Actively pursuing the **AWS Solutions Architect Associate** and **CompTIA CySA+** certifications to validate advanced cloud architecture and defensive security analysis skills.
+* **AI-Powered Blue Team:** Building ML models and automation workflows for **proactive threat prioritization** and optimizing SOAR efficiency.
+  
 ---
 
 ### 📊 My GitHub Stats
@@ -80,17 +80,4 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   </a>
 </p>
 
-<!--
-**Null-bin/Null-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
