@@ -1,16 +1,15 @@
-I am a **Cloud Architect and Senior Security Analyst (Blue Team)** with over **9 years** of experience in coordinating IT teams, multi-cloud architecture (Azure, GCP, AWS), and implementing DevSecOps strategies.
+I am a *Cloud Architect and Senior Security Analyst (Blue Team)** with over *9 years* of experience in coordinating IT teams, multi-cloud architecture (Azure, GCP, AWS), and implementing DevSecOps strategies.
 
-My passion is creating resilient solutions, specializing in **Identity Governance and Administration (IGA/IAM)**, **Incident Detection and Response (SIEM/SOAR)**, and **Security Automation (IaC)**.
-
-Currently, I am focused on applying my security expertise to Data Engineering projects and exploring the use of **ML/AI (RAG, Fine-tuning, and MCP)** for cyber defense.
+My passion is creating resilient solutions, specializing in *Identity Governance and Administration (IGA/IAM)*, *Incident Detection and Response (SIEM/SOAR)*, and *Security Automation (IaC)*.
+Currently, I am focused on applying my security expertise to Data Engineering projects and exploring the use of *ML/AI (RAG, Fine-tuning, and MCP)* for cyber defense.
 ---
  
 ### 🔭 I’m currently working on ...
 
-**Secure Data Engineering Pipeline:** A data engineering project focused on data collection and processing, including creating a pipeline and ensuring **end-to-end security** for the entire flow.
-- **Certification Roadmap:** Actively pursuing the **AWS Solutions Architect Associate, and CySA+** certifications.
+Secure Data Engineering Pipeline:** A data engineering project focused on data collection and processing, including creating a pipeline and ensuring *end-to-end security* for the entire flow.
+- *Certification Roadmap:* Actively pursuing the *AWS Solutions Architect Associate, and CySA+* certifications.
   
-- **I am open to:** New opportunities and challenges in technology, especially in positions involving Cloud, DevOps, and Cybersecurity.
+- I am open to: New opportunities and challenges in technology, especially in positions involving Cloud, DevOps, and Cybersecurity.
 ---
 
 ### 📊 My GitHub Stats
