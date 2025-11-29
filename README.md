@@ -24,7 +24,7 @@ I am a **Senior Cloud & Security Engineer** and **Blue Team Analyst** with over 
 ---
 
 <p align="center">
-  <img src="https://github.com/null-bin/null-bin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/null-bin/null-bin/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <p align="center">
