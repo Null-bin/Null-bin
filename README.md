@@ -28,7 +28,7 @@ I am a **Senior Cloud & Security Engineer** and **Blue Team Analyst** with over 
 </p>
 
 <p align="center">
-  <img src="tetris.gif" alt="Tetris animation" width="800px"/>
+  <img src="tetris.gif" alt="Tetris animation" width="800px"/>
 </p>
 
 ---
