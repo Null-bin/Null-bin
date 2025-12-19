@@ -6,7 +6,7 @@ I am a **Senior Cloud & Security Engineer** and **Blue Team Analyst** with over 
  
 ### 🔭 I’m currently working on ...
 
-* **Secure Data Engineering Pipeline:** Engineering end-to-end security and **Data Governance** for critical data pipelines, focusing on encryption, DLP (**Purview**), and robust **IAM** across data lakes.
+* **Secure Data Engineering Pipeline:** Engineering end-to-end security and **Data Governance** for **critical data pipelines**, focusing on encryption, **DLP**, and robust **IAM** across data lakes.
 * **AWS & CySA+ Roadmap:** Actively pursuing the **AWS Solutions Architect Associate** and **CompTIA CySA+** certifications to validate advanced cloud architecture and defensive security analysis skills.
 * **AI-Powered Blue Team:** Building ML models and automation workflows for **proactive threat prioritization** and optimizing SOAR efficiency.
   
